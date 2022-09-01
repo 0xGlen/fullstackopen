@@ -3,3 +3,4 @@
 This course serves as an introduction to modern web application development with JavaScript. The main focus is on building single page applications with ReactJS that use REST APIs built with Node.js.
 
 ## Course parts
+[Part 0 - Fundamentals of Web apps](https://github.com/0xGlen/fullstackopen/tree/main/Part%200)
