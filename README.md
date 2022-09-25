@@ -4,3 +4,4 @@ This course serves as an introduction to modern web application development with
 
 ## Course parts
 [Part 0 - Fundamentals of Web apps](https://github.com/0xGlen/fullstackopen/tree/main/Part%200)
+[Part 1 - Introduction to React](https://github.com/0xGlen/fullstackopen/tree/main/Part%201)
