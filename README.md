@@ -7,4 +7,4 @@ This course serves as an introduction to modern web application development with
 
 [Part 1 - Introduction to React](https://github.com/0xGlen/fullstackopen/tree/main/Part%201)
 
-[Part 2 - Communicating with Server] (https://github.com/0xGlen/fullstackopen/tree/main/Part%202)
+[Part 2 - Communicating with Server](https://github.com/0xGlen/fullstackopen/tree/main/Part%202)
